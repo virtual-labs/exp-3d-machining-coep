@@ -87,7 +87,7 @@ MachingObj.selectMaterial = function(){
 	    	+'</div>'
 			
 			+'<div class="col-sm-12 col-md-9 col-xl-10" id="WoodCuttingSection">'
-			+'<img id="MaterialImg" src="simulation/diagram/fablab pics/rowMaterial.PNG">'
+			+'<img id="MaterialImg" src="simulation/diagram/fablab pics/rowMaterial.png">'
 			
 			+'</div>'
 			
@@ -133,12 +133,12 @@ MachingObj.selectMaterial = function(){
 			    	+'<h3>Orientation</h3>'
 			    	+'<div class="row">'
 			    	+'<div class="col-sm-12 col-md-6 col-xl-6" >'
-			    	+'<img src="simulation/diagram/fablab pics/Orientation.PNG">'
+			    	+'<img src="simulation/diagram/fablab pics/Orientation.png">'
 			    	+'</div>'
 			    	+'<div class="col-sm-12 col-md-6 col-xl-6" >'
 			    	+'<h4>Select top surface</h4>'
 			    	+'<div class="orignBk">'
-			    	+'<img src="simulation/diagram/fablab pics/orign.PNG" class="orgimg">'
+			    	+'<img src="simulation/diagram/fablab pics/orign.png" class="orgimg">'
 			    	
 			    	 +'<input type="radio" name="selectTopsurface" value="top" class="top"> </br>'
 			    	 +'<input type="radio" name="selectTopsurface" value="top left" class="topleft"> '
