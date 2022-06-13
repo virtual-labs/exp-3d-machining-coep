@@ -367,6 +367,7 @@ MachingObj.selectMaterial = function(){
 												 
 												 
 												 MachineDrawing();
+												$('#ToolSelectBtn').attr("disabled", true);
 												}, function(){
 													$('#toolpathModal').modal('show');
 												});
