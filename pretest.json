@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "WHAT AMONG THE NC OPERATIONS GIVEN BELOW IS CONTINUOUS PATH OPERATION ?",
+      "answers": {
+        "a": "Drilling",
+        "b": "Punching in Metal Sheet",
+        "c": "Milling",
+        "d": "All of the above"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A BLOCK OF INFORMATION IN NC PROGRAM MEANS",
+      "answers": {
+        "a": "One row on tape",
+        "b": "One complete program for a job",
+        "c": "One complete Statement",
+        "d": "One complete Instruction"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "IN 3D MACHINING SURFACES ARE TO BE CUT LIE ON",
+      "answers": {
+        "a": "Three plane",
+        "b": "Two plane",
+        "c": "One plane",
+        "d": "Two & Half plane"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "BALL ENF MILLING CUTTER IS PREFERRED IN 3D MACHINING INSTREAD OF SLOT DRILLS OR END MILLS FOR",
+      "answers": {
+        "a": "3D Finish machining",
+        "b": "3D Rough machining",
+        "c": "Drilling",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "IN CNC MACHINE TOOL, ENCODER IS USED TO SENSE AND CONTROL",
+      "answers": {
+        "a": "Table velocity",
+        "b": "Table Position",
+        "c": "Spindle Speed",
+        "d": "All Of the Above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

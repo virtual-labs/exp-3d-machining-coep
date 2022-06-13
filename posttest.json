@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "CNC DESKTOP MILLING MACHINE HAS",
+      "answers": {
+        "a": "4 Axis",
+        "b": "3 Axis",
+        "c": "2 Axis",
+        "d": "1 Axis"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "MATERIAL USED FOR MILLING ON DESKTOP MINIMILL MACHINE IS",
+      "answers": {
+        "a": "Modeling Wax",
+        "b": "Wood",
+        "c": "Brass",
+        "d": "All of the Above"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "IN 3D MACHINING SLOT DRILLS OR MILLS ARE PREFERRED FOR",
+      "answers": {
+        "a": "Roughing Operation",
+        "b": "Finishing Operation",
+        "c": "Drilling Operation",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "ACTUAL MACHINING TIME IN 3D MACHINING WITH MULTI DIRECTIONAL PROFILE CAN BE REDUCED BY",
+      "answers": {
+        "a": "Increasing the feed Rate",
+        "b": "Increasing the spindle speed",
+        "c": "Reducing the acceleration/Declaration of tool",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "PREFERABLE FEED RATE IN ROUGHING OPERATION COMPARE TO FINISHING OPERATION IS",
+      "answers": {
+        "a": "Less",
+        "b": "More",
+        "c": "Equal",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
